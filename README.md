@@ -28,10 +28,6 @@ The analysis combines data preparation in Python, relational queries in SQLite, 
 | 10 | Executive Summary |
 | 11 | Limitations |
 
-## Explore the Analysis
-
-[Open the complete Jupyter Notebook](Olist_Ecommerce_Analysis.ipynb)
-
 ## Tools & Technologies
 
 - Python  
