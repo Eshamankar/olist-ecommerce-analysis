@@ -12,6 +12,26 @@ The analysis combines data preparation in Python, relational queries in SQLite, 
 
 ![Olist E-Commerce Analysis Dashboard](olist_dashboard.png)
 
+## Notebook Contents
+
+| Section | Analysis |
+|---|---|
+| 1 | Data Loading |
+| 2 | Data Quality Assessment |
+| 3 | Data Preparation |
+| 4 | SQLite Database Creation |
+| 5 | SQL Business Analysis |
+| 6 | Exploratory Data Analysis |
+| 7 | RFM Customer Segmentation |
+| 8 | Delivery Performance |
+| 9 | Business Dashboard |
+| 10 | Executive Summary |
+| 11 | Limitations |
+
+## Explore the Analysis
+
+[Open the complete Jupyter Notebook](Olist_Ecommerce_Analysis.ipynb)
+
 ## Tools & Technologies
 
 - Python  
