@@ -1,0 +1,6 @@
+segment,customers,avg_frequency,avg_spending
+At Risk,1566,2.08,252.99
+Inactive One-Time,53686,1.0,136.37
+Loyal / Active,60,3.68,520.19
+Recent One-Time,17845,1.0,138.58
+Regular Customers,20201,1.06,148.5
