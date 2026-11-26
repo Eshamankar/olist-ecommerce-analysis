@@ -105,3 +105,5 @@ Olist_project/
 3. Open `Olist_Ecommerce_Analysis.ipynb` in Google Colab.  
 4. Mount Google Drive and set the project path to your `Olist_project` folder.  
 5. Run the notebook cells sequentially.
+
+The notebook uses Google Drive paths for data access and output storage.
