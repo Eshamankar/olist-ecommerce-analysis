@@ -79,7 +79,7 @@ Olist_project/
 │   └── product_category_name_translation.csv
 ├── outputs/
 │   └── Exported analysis tables
-├── Olist_Ecommerce_Analysis_GoogleDrive.ipynb
+├── Olist_Ecommerce_Analysis.ipynb
 ├── olist.db
 ├── olist_dashboard.png
 └── README.md
