@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Data Analysis \--- Olist
+# Brazilian E-Commerce Data Analysis — Olist
 
 An exploratory business analysis of the Brazilian E-Commerce Public Dataset by Olist, using Python, SQL and data visualisation.
 
@@ -7,6 +7,10 @@ An exploratory business analysis of the Brazilian E-Commerce Public Dataset by O
 This project examines historical e-commerce transactions to understand sales performance, customer purchasing behaviour, product category performance, seller contributions and delivery efficiency.
 
 The analysis combines data preparation in Python, relational queries in SQLite, customer segmentation using RFM metrics, and visualisations to communicate business findings.
+
+## Project Dashboard
+
+![Olist E-Commerce Analysis Dashboard](olist_dashboard.png)
 
 ## Tools & Technologies
 
